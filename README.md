@@ -1,5 +1,6 @@
 # Repo_DS_Projects
 This repository contains all the academic mini projects completed, in my Data Science Learning path.
+
 Skills:
   1. Python for Data Science
   2. Numpy, Pandas, Visualization
